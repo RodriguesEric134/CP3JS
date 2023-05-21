@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+/* COMEÇO DO FORMULARIO */
+form{
+    
+    width: 300px;
+    margin: auto;
+    font-size: 20px;
+    
+}
+
+fieldset{
+    border-radius: 5px;
+    padding: 15px;
+    
+}
+
+label{
+    display: inline-block;
+    width: 80px;
+    margin-top: 15px;
+    width: max-content;
+}
+
+input{
+    margin-bottom: 7px;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+/* BOTAO DE CADASTRO */
+#btnCadastro {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+  }
